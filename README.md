@@ -1,4 +1,4 @@
-<h1 align="right" style="font-size: 60px; font-weight: bold; color: #ffffff;">HI, I'm 𝗩𝗲𝘁𝘇𝗫𝘆𝗿𝗮𝗮</h1>
+<h1 align="right" style="font-size: 60px; font-weight: bold; color: #ffffff;">HI, I'm Dreenka.</h1>
 
 <br />
 
