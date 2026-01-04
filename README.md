@@ -1,5 +1,10 @@
 <h1 align="right" style="font-size: 60px; font-weight: bold; color: #ffffff;">HI, I'm DreenkaDev.</h1>
 
+<p align="right">
+  <img src="https://img.shields.io/badge/-Google_Developer-transparent?style=flat-square&logo=google&logoColor=4285F4" height="22" />
+  <img src="https://img.shields.io/badge/-Microsoft_Student_Ambassador-transparent?style=flat-square&logo=microsoft&logoColor=00A4EF" height="22" />
+</p>
+
 <br />
 
 <h3 align="left" style="color: #ffffff; border-bottom: 3px solid #ffffff; display: inline-block; padding-bottom: 5px;">
