@@ -3,7 +3,7 @@
 <p align="right">
   <img src="https://static.cdnlogo.com/logos/g/35/google-icon.svg" width="18" height="18" /> <span>Google Developer</span>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://static.cdnlogo.com/logos/m/6/microsoft.svg" width="18" height="18" /> <span>Microsoft Student Ambassador</span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18" /> <span>Microsoft Student Ambassador</span>
 </p>
 
 <br />
