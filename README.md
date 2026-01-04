@@ -1,8 +1,9 @@
 <h1 align="right" style="font-size: 60px; font-weight: bold; color: #ffffff;">HI, I'm DreenkaDev.</h1>
 
 <p align="right">
-  <img src="https://img.shields.io/badge/-Google_Developer-transparent?style=flat-square&logo=google&logoColor=4285F4" height="22" />
-  <img src="https://img.shields.io/badge/-Microsoft_Student_Ambassador-transparent?style=flat-square&logo=microsoft&logoColor=00A4EF" height="22" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="18" height="18" /> <span>Google Developer</span>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoft/00A4EF" width="18" height="18" /> <span>Microsoft Student Ambassador</span>
 </p>
 
 <br />
