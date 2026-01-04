@@ -1,13 +1,5 @@
 <h1 align="right" style="font-size: 60px; font-weight: bold; color: #ffffff;">HI, I'm DreenkaDev.</h1>
 
-<p align="right">
-  <img src="https://www.gstatic.com/devrel-devsite/prod/vbd4700e58d826f0eab371eadc20e0f6174d68b373bc54256674a559a27b78fc5/developers/images/favicon-new.png" width="24" height="24" />
-  <img src="https://img.shields.io/badge/Google_Developer-transparent?style=for-the-badge&logoColor=white" alt="Google Developer" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" width="24" height="24" />
-  <img src="https://img.shields.io/badge/Microsoft_Student_Ambassador-transparent?style=for-the-badge&logoColor=white" alt="Microsoft Student Ambassador" />
-</p>
-
 <br />
 
 <h3 align="left" style="color: #ffffff; border-bottom: 3px solid #ffffff; display: inline-block; padding-bottom: 5px;">
@@ -21,35 +13,6 @@
   Security researcher exploring offensive techniques, red teaming, and system hardening.
   I enjoy building things as much as I enjoy breaking them.
 </h5>
-
-<br />
-
-<div align="left">
-  <a href="https://codepen.io/vetrixcz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=050505&logoColor=white&labelColor=050505&style=for-the-badge" height="35" alt="codepen" />
-  </a>
-  <a href="https://stackoverflow.com/users/31353820/vetzx01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=050505&logoColor=FE7A16&labelColor=050505&style=for-the-badge" height="35" alt="stackoverflow" />
-  </a>
-  <a href="https://dev.to/vetzzz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=050505&logoColor=white&labelColor=050505&style=for-the-badge" height="35" alt="devto" />
-  </a>
-  <a href="https://tryhackme.com/p/vetrixczzz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=050505&logoColor=88cc14&labelColor=050505&style=for-the-badge" height="35" alt="tryhackme" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/vetrixczzz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=050505&logoColor=2EC866&labelColor=050505&style=for-the-badge" height="35" alt="hackerrank" />
-  </a>
-  <a href="https://www.linkedin.com/in/vetz-bb8ab8380" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=050505&logoColor=0077B5&labelColor=050505&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/vetz323103" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=050505&logoColor=1DA1F2&labelColor=050505&style=for-the-badge" height="35" alt="twitter" />
-  </a>
-  <a href="mailto:vetrixczzz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=050505&logoColor=D14836&labelColor=050505&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-</div>
 
 <br />
 
@@ -116,7 +79,6 @@
   <img src="https://img.shields.io/badge/Neovim-000000?style=flat&logo=neovim&logoColor=57A143" height="28" />
   <img src="https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visualstudiocode&logoColor=007ACC" height="28" />
   <img src="https://img.shields.io/badge/Postman-000000?style=flat&logo=postman&logoColor=FF6C37" height="28" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=F24E1E" height="28" />
 </div>
 
 <br />
