@@ -18,7 +18,7 @@
 
 <h3 align="left" style="color: #ffffff;">
   <img src="https://media.giphy.com/media/iTWrO42adq3aWq5T2H/giphy.gif" width="25"> 
-  ARSENAL / TECH STACK
+  TECH STACK
 </h3>
 
 <div align="left">
@@ -60,14 +60,6 @@
   <img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat&logo=kalilinux&logoColor=557C94" height="28" />
   <img src="https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=A81D33" height="28" />
   <img src="https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=0078D6" height="28" />
-  <br/>
-  <!-- Security Tools -->
-  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=flat&logo=burpsuite&logoColor=FF6633" height="28" />
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=1679A7" height="28" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=2596CD" height="28" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Hashcat-000000?style=flat&logo=hackthebox&logoColor=9FEF00" height="28" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=flat&logo=hackthebox&logoColor=9FEF00" height="28" />
   <br/>
   <!-- Dev Tools -->
   <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032" height="28" />
