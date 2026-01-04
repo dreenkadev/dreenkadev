@@ -69,8 +69,3 @@
 
 <hr style="border: 1px solid #ffffff; box-shadow: 0 0 10px #ffffff;" />
 <br />
-
-
-<p align="center" style="font-size: 10px; color: #ffffff;">
-  SYSTEM.SECURE // VETZXYRAA
-</p>
