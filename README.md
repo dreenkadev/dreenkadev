@@ -70,23 +70,6 @@
 <hr style="border: 1px solid #ffffff; box-shadow: 0 0 10px #ffffff;" />
 <br />
 
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vetzxyraa/vetzxyraa/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vetzxyraa/vetzxyraa/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vetzxyraa/vetzxyraa/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-
-  <br /><br />
-
-  <img src="https://streak-stats.demolab.com?user=vetzxyraa&locale=en&mode=weekly&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&hide_border=false" height="170" alt="streak graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vetzxyraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" height="170" alt="languages graph" />
-
-</div>
-
-<br />
 
 <p align="center" style="font-size: 10px; color: #ffffff;">
   SYSTEM.SECURE // VETZXYRAA
