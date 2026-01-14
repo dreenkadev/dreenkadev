@@ -32,15 +32,10 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E" height="28" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6" height="28" />
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB" height="28" />
-  <img src="https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=00ADD8" height="28" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=A8B9CC" height="28" />
   <img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=00599C" height="28" />
   <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=ED8B00" height="28" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=7F52FF" height="28" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=777BB4" height="28" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=flat&logo=ruby&logoColor=CC342D" height="28" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=0175C2" height="28" />
   <img src="https://img.shields.io/badge/Lua-000000?style=flat&logo=lua&logoColor=2C2D72" height="28" />
   <br/>
   <!-- Data & Config -->
@@ -57,8 +52,6 @@
   <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED" height="28" />
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=kubernetes&logoColor=326CE5" height="28" />
   <img src="https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&logoColor=7B42BC" height="28" />
-  <img src="https://img.shields.io/badge/Nginx-000000?style=flat&logo=nginx&logoColor=009639" height="28" />
-  <img src="https://img.shields.io/badge/Apache-000000?style=flat&logo=apache&logoColor=D22128" height="28" />
   <br/>
   <!-- Operating Systems -->
   <img src="https://img.shields.io/badge/Arch_Linux-000000?style=flat&logo=archlinux&logoColor=1793D1" height="28" />
@@ -76,6 +69,5 @@
   <img src="https://img.shields.io/badge/Vim-000000?style=flat&logo=vim&logoColor=019733" height="28" />
   <img src="https://img.shields.io/badge/Neovim-000000?style=flat&logo=neovim&logoColor=57A143" height="28" />
   <img src="https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visualstudiocode&logoColor=007ACC" height="28" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=flat&logo=postman&logoColor=FF6C37" height="28" />
 </div>
 <br />
