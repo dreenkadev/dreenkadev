@@ -48,7 +48,7 @@
   <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonwebservices&logoColor=FF9900" height="28" />
   <img src="https://img.shields.io/badge/GCP-000000?style=flat&logo=googlecloud&logoColor=4285F4" height="28" />
-  <img src="https://img.shields.io/badge/Azure-000000?style=flat&logo=microsoftazure&logoColor=0078D4" height="28" />
+  <img src="https://img.shields.io/badge/Azure-000000?style=flat&logo=microsoftazure&logoColor=0078D4" height="28" /> 
   <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED" height="28" />
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=kubernetes&logoColor=326CE5" height="28" />
   <img src="https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&logoColor=7B42BC" height="28" />
