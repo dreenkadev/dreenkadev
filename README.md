@@ -1,9 +1,8 @@
 <h1 align="right" style="font-size: 60px; font-weight: bold; color: #ffffff;">HI, I'm DreenkaDev.</h1>
 
 <p align="right">
-  <img src="https://static.cdnlogo.com/logos/g/35/google-icon.svg" width="18" height="18" style="vertical-align:middle" /> <span>Google Developer</span>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" height="18" style="vertical-align:middle" /> <span>Microsoft Student Ambassador</span>
+  <span>Google Developer</span>
+  <span>Microsoft Student Ambassador</span>
 </p>
 
 <br />
