@@ -1,10 +1,5 @@
 <h1 align="right" style="font-size: 60px; font-weight: bold; color: #ffffff;">HI, I'm DreenkaDev.</h1>
 
-<p align="right">
-  <span>Google Developer</span>
-</p>
-
-<br />
 
 <h3 align="left" style="color: #ffffff; border-bottom: 3px solid #ffffff; display: inline-block; padding-bottom: 5px;">
   SOFTWARE ENGINEER | CYBER SECURITY ENTHUSIAST
