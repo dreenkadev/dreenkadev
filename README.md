@@ -2,7 +2,6 @@
 
 <p align="right">
   <span>Google Developer</span>
-  <span>Microsoft Student Ambassador</span>
 </p>
 
 <br />
